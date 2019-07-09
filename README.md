@@ -7,5 +7,5 @@ ncnn优化MTCNN
 
 BBox代码来源于：
 
-https://github.com/Tencent/ncnn,   
+https://github.com/Tencent/ncnn
 https://github.com/moli232777144/mtcnn_ncnn

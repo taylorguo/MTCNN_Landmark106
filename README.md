@@ -33,4 +33,4 @@ https://github.com/moli232777144/mtcnn_ncnn
 -   [Windows7/10: train mtcnn with mxnet](https://github.com/zuoqing1988/train-mtcnn)
 -   [查看Python源代码: MTCNN implementation in MXnet](https://github.com/Seanlinx/mtcnn)
 
-=== 2019年7月11日 20:00 模型推断关键点没问题，画点方式有问题。===
+=== 经过两天排查，在大佬配合下， 2019年7月11日 20:00 模型推断关键点没问题，画点方式有问题。===

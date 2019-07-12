@@ -168,7 +168,7 @@ public class MainActivity extends AppCompatActivity {
                     paint.setStrokeWidth(5);
 
                     for (int i=0; i<106; i++){
-                        canvas.drawPoints(new float[]{landmark[i] + left, landmark[i + 1]+top}, paint);
+                        canvas.drawPoints(new float[]{landmark[2*i] + left, landmark[2*i + 1]+top}, paint);
                     }
                     imageView.setImageBitmap(drawBitmap);
                 }
